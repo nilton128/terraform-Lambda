@@ -14,7 +14,7 @@ Antes de começar, certifique-se de ter os seguintes pré-requisitos:
 
 O projeto é estruturado da seguinte forma:
 
-├── lambda_function.py # Código da função Lambda
-├── main.tf # Configuração do Terraform
-├── variables.tf # Variáveis do Terraform
-└── README.md # Este arquivo
+─ lambda_function.py # Código da função Lambda
+─ main.tf # Configuração do Terraform
+─ variables.tf # Variáveis do Terraform
+─ README.md # Este arquivo
